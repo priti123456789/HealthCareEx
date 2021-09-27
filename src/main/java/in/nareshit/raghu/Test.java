@@ -9,6 +9,8 @@ public class Test {
 
 	public static void main(String[] args) {
 		//JDK 9
+		
+		// using collection feature of jdk 9
 		List<Object[]> list = List.of(
 				new Object[] {10,"AA"},
 				new Object[] {11,"BB"},
